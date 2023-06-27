@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JoJXqEwartjkp+8Vjgtj4wt0EF4aQa222W9dzCmZ3gR5mA3H+m5q0ypjOSNutp7Te3NggLJkKP4YtSUc46d5Ug==",
+  "dgSpecHash": "sqZ1j77peh7ckw8uSR/MCm4msrEOQr4sqx257ySLjN+u8VRw4fnX1/AdPkUumX17eSgJsh69/AMOAx4kQP4DrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\Git\\Vmmsolutions\\Vmmsolutions.School.Api\\Vmmsolutions.School.Api.csproj",
+  "projectFilePath": "C:\\Users\\vitor\\Git\\Vmmsolutions\\Vmmsolutions\\Vmmsolutions.School.Api\\Vmmsolutions.School.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
