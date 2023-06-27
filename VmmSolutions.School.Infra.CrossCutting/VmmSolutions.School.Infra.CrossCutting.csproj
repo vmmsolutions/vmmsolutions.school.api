@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vmmsolutions.School.Application.Core\Vmmsolutions.School.Application.Core.csproj" />
+    <ProjectReference Include="..\Vmmsolutions.School.Application\Vmmsolutions.School.Application.csproj" />
+    <ProjectReference Include="..\Vmmsolutions.School.Domain.Core\Vmmsolutions.School.Domain.Core.csproj" />
+    <ProjectReference Include="..\Vmmsolutions.School.Domain\Vmmsolutions.School.Domain.csproj" />
+    <ProjectReference Include="..\Vmmsolutions.School.Infra.Data\Vmmsolutions.School.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

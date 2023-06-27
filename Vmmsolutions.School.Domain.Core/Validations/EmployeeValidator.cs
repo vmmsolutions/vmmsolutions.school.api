@@ -1,0 +1,38 @@
+﻿using FluentValidation;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Vmmsolutions.School.Domain.Entities;
+
+namespace Vmmsolutions.School.Domain.Core.Validations
+{
+    public class EmployeeValidator : AbstractValidator<Employee>
+    {
+
+        public EmployeeValidator()
+        {
+
+            RuleSet("Insert", () =>
+            {
+
+            });
+
+            RuleSet("Update", () =>
+            {
+
+            });
+
+            RuleSet("Delete", () =>
+            {
+
+            });
+        }
+
+        #region Validate Fields
+
+
+        #endregion Validate Fields
+    }
+}
